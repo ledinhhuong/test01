@@ -2,7 +2,7 @@ import socket
 from threading import Thread
 import json
 import argparse
-kkkkkkkkk
+kkkkkkkkkdf
 parser = argparse.ArgumentParser(description='Ip and port of Server')
 parser.add_argument('server_ip', type=str, help='Ip of Server')
 parser.add_argument('server_port', type=int, help='Port of Server')
